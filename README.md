@@ -63,7 +63,7 @@ python task1_cnn_cifar10.py
 ```
 
 Or open in Google Colab (recommended — free GPU, much faster):
-1. Upload `task1_cnn_cifar10.py` to Colab
+1. Upload `cifar10-cnn-classifier.py` to Colab
 2. Runtime → Change runtime type → GPU
 3. Run all cells
 
