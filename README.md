@@ -28,7 +28,7 @@ Per-class performance (precision / recall / F1):
 | ship | 0.93 | 0.83 | 0.88 |
 | truck | 0.70 | 0.93 | 0.80 |
 
-See [`task1_cnn_cifar10.ipynb`](task1_cnn_cifar10.ipynb) for the full executed notebook with training logs, epoch-by-epoch progress, and complete output.
+
 
 **Observation:** Cats and birds were the hardest classes to classify (lowest recall), likely due to visual similarity with other animals in low-resolution 32×32 images. Automobile and truck had the highest recall but lower precision, suggesting the model sometimes confuses other vehicle-like shapes for these classes.
 
